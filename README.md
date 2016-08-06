@@ -1,2 +1,2 @@
-This is a pretty standard implementation of Church's encoding
- - '''church_nums.clj''':  Natural Numbers
+This is a pretty standard implementation of the basic components of function programming
+ - '''church_nums.clj''':  Natural Numbers using Church's encoding
